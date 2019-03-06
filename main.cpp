@@ -9,7 +9,6 @@ int sosuu(int n){
     }
     return result;
 }
-
 int main(int argc, const char * argv[]) {
     int i(0),n(1);
     while (i <= 100){
